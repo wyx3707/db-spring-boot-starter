@@ -12,4 +12,5 @@ import org.springframework.context.annotation.ImportResource;
 @Configuration
 @ImportResource(locations = "classpath:/mybatisContext.xml")
 public class BasicDataAutoConfiguration {
+    //这是个测试用例
 }
